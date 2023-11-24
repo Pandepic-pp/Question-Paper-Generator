@@ -1,0 +1,240 @@
+[
+    {
+      "question": "Derive the Schrödinger equation",
+      "subject": "Physics",
+      "topic": "Quantum Mechanics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Explain the concept of dark matter",
+      "subject": "Astrophysics",
+      "topic": "Cosmology",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Prove Fermat's Last Theorem",
+      "subject": "Mathematics",
+      "topic": "Number Theory",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Elaborate on the P vs NP problem",
+      "subject": "Computer Science",
+      "topic": "Computational Complexity",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the ethical implications of gene editing",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the economic impact of climate change",
+      "subject": "Economics",
+      "topic": "Environmental Economics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Evaluate the geopolitical consequences of artificial intelligence",
+      "subject": "Political Science",
+      "topic": "Geopolitics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Determine the mechanism of action of a specific drug",
+      "subject": "Pharmacology",
+      "topic": "Drug Pharmacology",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Interpret a complex literary work in a postmodern context",
+      "subject": "Literature",
+      "topic": "Postmodernism",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Solve a system of nonlinear differential equations",
+      "subject": "Mathematics",
+      "topic": "Differential Equations",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the role of mitochondria in cellular energy production",
+      "subject": "Cell Biology",
+      "topic": "Cellular Physiology",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Critique the philosophy of existentialism in modern society",
+      "subject": "Philosophy",
+      "topic": "Existentialism",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the impact of quantum computing on cryptography",
+      "subject": "Computer Science",
+      "topic": "Cryptography",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Evaluate the effectiveness of a specific cancer treatment",
+      "subject": "Oncology",
+      "topic": "Cancer Treatment",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the political philosophy of John Rawls",
+      "subject": "Political Science",
+      "topic": "Political Philosophy",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Interpret a complex piece of modern art",
+      "subject": "Art",
+      "topic": "Modern Art",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the social impact of a historical revolution",
+      "subject": "History",
+      "topic": "Revolutions",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Evaluate the ethical implications of artificial intelligence in healthcare",
+      "subject": "Medical Ethics",
+      "topic": "Artificial Intelligence in Healthcare",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the economic theories of John Maynard Keynes",
+      "subject": "Economics",
+      "topic": "Keynesian Economics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the impact of globalization on cultural identity",
+      "subject": "Sociology",
+      "topic": "Globalization",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the algorithmic complexity of a specific sorting algorithm",
+      "subject": "Computer Science",
+      "topic": "Algorithms",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the historical context of a significant philosophical work",
+      "subject": "Philosophy",
+      "topic": "Philosophical History",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically analyze a classical piece of music",
+      "subject": "Music",
+      "topic": "Classical Music",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the role of microorganisms in soil ecology",
+      "subject": "Ecology",
+      "topic": "Soil Microbiology",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Evaluate the impact of a specific technological innovation on society",
+      "subject": "Technology",
+      "topic": "Technological Innovations",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the economic theories of Milton Friedman",
+      "subject": "Economics",
+      "topic": "Monetarism",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the physiological basis of a complex human behavior",
+      "subject": "Psychology",
+      "topic": "Physiological Psychology",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the impact of a specific environmental policy on biodiversity",
+      "subject": "Environmental Science",
+      "topic": "Biodiversity Conservation",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically evaluate a philosophical argument on ethics",
+      "subject": "Philosophy",
+      "topic": "Ethics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Analyze the economic implications of a global pandemic",
+      "subject": "Economics",
+      "topic": "Pandemic Economics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the impact of a specific international treaty on human rights",
+      "subject": "Human Rights",
+      "topic": "International Treaties",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Discuss the psychological theories of Sigmund Freud",
+      "subject": "Psychology",
+      "topic": "Psychoanalysis",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Critically analyze the economic policies of a specific country",
+      "subject": "Economics",
+      "topic": "National Economic Policies",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Examine the cultural impact of a specific technological advancement",
+      "subject": "Technology",
+      "topic": "Cultural Impact of Technology",
+      "difficulty": "Hard",
+      "marks": 10
+    }
+  ]

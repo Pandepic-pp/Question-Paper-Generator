@@ -1,0 +1,240 @@
+[
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who discovered the theory of general relativity?",
+    "subject": "Physics",
+    "topic": "Theoretical Physics",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the formula for calculating the area of a rectangle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who wrote the play 'Hamlet'?",
+    "subject": "Literature",
+    "topic": "Shakespeare",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "subject": "History",
+    "topic": "World History",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who is the current Prime Minister of the United Kingdom?",
+    "subject": "Politics",
+    "topic": "World Leaders",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who painted the 'Mona Lisa'?",
+    "subject": "Art",
+    "topic": "Painting",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who is known as the 'Father of Computers'?",
+    "subject": "Technology",
+    "topic": "Computer Science",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "subject": "Economics",
+    "topic": "Currencies",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "subject": "Medicine",
+    "topic": "Medical Discoveries",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the national flower of India?",
+    "subject": "Botany",
+    "topic": "Flowers",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespeare",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the square root of 12.52.5?",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "subject": "Biology",
+    "topic": "Photosynthesis",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "Novels",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who invented the telephone?",
+    "subject": "Inventions",
+    "topic": "Communication",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "subject": "Geography",
+    "topic": "Oceans",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "subject": "Mathematics",
+    "topic": "Number Theory",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who is the 'Father of Medicine'?",
+    "subject": "Medicine",
+    "topic": "Medical History",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the currency of China?",
+    "subject": "Economics",
+    "topic": "Currencies",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who painted the 'Starry Night'?",
+    "subject": "Art",
+    "topic": "Painting",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "subject": "Geography",
+    "topic": "Deserts",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who discovered the structure of DNA?",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the capital of India?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who is known as the 'Father of Physics'?",
+    "subject": "Physics",
+    "topic": "Physics Pioneers",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the currency of Russia?",
+    "subject": "Economics",
+    "topic": "Currencies",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "Who painted 'The Persistence of Memory'?",
+    "subject": "Art",
+    "topic": "Painting",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the largest continent?",
+    "subject": "Geography",
+    "topic": "Continents",
+    "difficulty": "Easy",
+    "marks": 2.5
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 2.5
+  }
+]

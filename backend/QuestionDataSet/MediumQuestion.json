@@ -1,0 +1,478 @@
+[
+    {
+      "question": "What is the Pythagorean theorem",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who developed the theory of evolution by natural selection",
+      "subject": "Biology",
+      "topic": "Evolution",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Solve the equation: 2x + 5 = 15",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who wrote the novel '1985'",
+      "subject": "Literature",
+      "topic": "Fiction",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Name three major rivers in Africa",
+      "subject": "Geography",
+      "topic": "Rivers",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "In which century did the Industrial Revolution begin",
+      "subject": "History",
+      "topic": "Industrial Revolution",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize",
+      "subject": "History",
+      "topic": "Nobel Prize Winners",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Balance the chemical equation: H2 + O2 → H2O",
+      "subject": "Chemistry",
+      "topic": "Chemical Equations",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who painted 'The Starry Night'",
+      "subject": "Art",
+      "topic": "Painting",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the average distance from the Earth to the Moon",
+      "subject": "Astronomy",
+      "topic": "Celestial Bodies",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of artificial intelligence",
+      "subject": "Computer Science",
+      "topic": "Artificial Intelligence",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the GDP of Germany",
+      "subject": "Economics",
+      "topic": "Gross Domestic Product",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who discovered the structure of benzene",
+      "subject": "Chemistry",
+      "topic": "Organic Chemistry",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "List five different plant species",
+      "subject": "Biology",
+      "topic": "Botany",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who wrote 'The Catcher in the Rye'",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Calculate the area of a circle with radius 5 units",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Name three types of blood vessels in the human body",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who is the author of 'One Hundred Years of Solitude'",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the capital of Argentina",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Define Newton's second law of motion",
+      "subject": "Physics",
+      "topic": "Classical Mechanics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who discovered the double helix structure of DNA",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "List three elements from the periodic table",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Name five African countries",
+      "subject": "Geography",
+      "topic": "Countries",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the concept of supply and demand in economics",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who won the Nobel Prize in Physics in 2020",
+      "subject": "Physics",
+      "topic": "Nobel Prize Winners",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the term 'photosynthesis'",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the currency of South Korea",
+      "subject": "Economics",
+      "topic": "Currencies",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Name three famous artists from the Renaissance period",
+      "subject": "Art",
+      "topic": "Renaissance",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Solve the equation: 3y - 8 = 13",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who is the current Secretary-General of the United Nations",
+      "subject": "Politics",
+      "topic": "World Leaders",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the molecular structure of water",
+      "subject": "Chemistry",
+      "topic": "Molecular Chemistry",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who wrote 'The Grapes of Wrath'",
+      "subject": "Literature",
+      "topic": "Novels",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Calculate the volume of a cube with side length 5 units",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Name three types of renewable energy sources",
+      "subject": "Environmental Science",
+      "topic": "Renewable Energy",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Who is known as the 'Father of Economics'",
+      "subject": "Economics",
+      "topic": "Economic Thinkers",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Define the term 'mitosis' in biology",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "What is the currency of Mexico",
+      "subject": "Economics",
+      "topic": "Currencies",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Name three famous inventions from the 20th century",
+      "subject": "History",
+      "topic": "Inventions",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Explain the Doppler effect in physics",
+      "subject": "Physics",
+      "topic": "Wave Phenomena",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the principles of supply and demand in economics",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Compare and contrast classical and operant conditioning in psychology",
+      "subject": "Psychology",
+      "topic": "Behavioral Psychology",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Describe the process of cellular respiration in biology",
+      "subject": "Biology",
+      "topic": "Cellular Processes",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the role of mitochondria in cellular energy production",
+      "subject": "Cell Biology",
+      "topic": "Cellular Physiology",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the impact of climate change on ecosystems",
+      "subject": "Environmental Science",
+      "topic": "Climate Change",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the ethical implications of artificial intelligence in healthcare",
+      "subject": "Medical Ethics",
+      "topic": "Artificial Intelligence in Healthcare",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Evaluate the economic theories of John Maynard Keynes",
+      "subject": "Economics",
+      "topic": "Keynesian Economics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the historical context of a significant philosophical work",
+      "subject": "Philosophy",
+      "topic": "Philosophical History",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Critically analyze a classical piece of music",
+      "subject": "Music",
+      "topic": "Classical Music",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of globalization on cultural identity",
+      "subject": "Sociology",
+      "topic": "Globalization",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the algorithmic complexity of a specific sorting algorithm",
+      "subject": "Computer Science",
+      "topic": "Algorithms",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the economic implications of a global pandemic",
+      "subject": "Economics",
+      "topic": "Pandemic Economics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the political philosophy of John Locke",
+      "subject": "Political Science",
+      "topic": "Political Philosophy",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Evaluate the impact of a specific technological innovation on society",
+      "subject": "Technology",
+      "topic": "Technological Innovations",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the economic theories of Milton Friedman",
+      "subject": "Economics",
+      "topic": "Monetarism",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the physiological basis of a complex human behavior",
+      "subject": "Psychology",
+      "topic": "Physiological Psychology",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of a specific environmental policy on biodiversity",
+      "subject": "Environmental Science",
+      "topic": "Biodiversity Conservation",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Critically evaluate a philosophical argument on ethics",
+      "subject": "Philosophy",
+      "topic": "Ethics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the economic implications of a global financial crisis",
+      "subject": "Economics",
+      "topic": "Global Financial Crisis",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of social media on contemporary communication",
+      "subject": "Communication Studies",
+      "topic": "Social Media",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the role of women in a specific historical movement",
+      "subject": "History",
+      "topic": "Women's History",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Critically analyze the portrayal of mental health in a literary work",
+      "subject": "Literature",
+      "topic": "Mental Health",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the environmental impact of a specific industrial process",
+      "subject": "Environmental Science",
+      "topic": "Industrial Ecology",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Evaluate the impact of a specific cultural movement on art",
+      "subject": "Art History",
+      "topic": "Cultural Movements in Art",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the role of technology in shaping modern education",
+      "subject": "Education",
+      "topic": "Educational Technology",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the economic consequences of a natural disaster",
+      "subject": "Economics",
+      "topic": "Natural Disasters and Economics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Discuss the impact of a specific political ideology on global governance",
+      "subject": "Political Science",
+      "topic": "Political Ideologies",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Analyze the ethical considerations in a medical research study",
+      "subject": "Medical Ethics",
+      "topic": "Medical Research Ethics",
+      "difficulty": "Medium",
+      "marks": 5
+    },
+    {
+      "question": "Examine the cultural significance of a traditional dance form",
+      "subject": "Cultural Studies",
+      "topic": "Traditional Dance",
+      "difficulty": "Medium",
+      "marks": 5
+    }
+  ]
